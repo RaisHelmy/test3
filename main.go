@@ -1,6 +1,6 @@
 //Created by Rais Helmy
 //Full Stack Developer
-//Test auto update
+//finished test
 package main
 
 import (
