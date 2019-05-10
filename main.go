@@ -1,6 +1,6 @@
 //Created by Rais Helmy
 //Full Stack Developer
-//Cmd dah tamat ye
+//Cmd dah tamatmmm
 package main
 
 import (
